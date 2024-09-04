@@ -1,32 +1,33 @@
-## Hi there 👋
+> "Technology is best when it brings people together." – Matt Mullenweg
 
-![Tecnologia](./tecnologia.png)
+I'm **[Tu Nombre]**, a dedicated Desktop and Web Application Developer with a strong passion for creating impactful and efficient software solutions. My journey in the world of programming has equipped me with a diverse set of skills and tools that I bring to every project.
 
-I'm Ernesto, a passionate Desktop Application Developer specializing in C#, Java, Python, and databases such as SQL Server, MySQL, and SQLite.
+### 💼 Curriculum Vitae
 
-- 🔭 I’m currently working on ASP.NET MVC 
-- 🌱 I’m currently learning bootstrap 5
-- 👯 I’m looking to collaborate on Grupo de Estudio 
-- 🤔 I’m looking for help with **[Áreas en las que necesitas ayuda]**
-- 💬 Ask me about **C#, Java, Python, SQL Server, MySQL, SQLite, and desktop application development**
-- 📫 How to reach me: pa0878022021@unab.edu.sv
-- 😄 Pronouns: Neto
-- ⚡ Fun fact: Disponibilidad de tiempo y trabajo en equipo 
+- **Languages**: C#, Java, Python, HTML, CSS, JavaScript, PHP
+- **Databases**: SQL Server, MySQL, SQLite
+- **Tools & IDEs**: Visual Studio, Visual Studio Code, Sublime Text, Git, GitHub
+- **Frameworks**: .NET, WPF, Windows Forms, Bootstrap
+- **Operating Systems**: Windows, Linux
 
-### Technologies & Tools
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
+### 🛠️ Skills
 
-### Connect with me
+- **Problem-Solving**: Ability to break down complex problems into manageable pieces and develop effective solutions.
+- **Collaboration**: Experience working in team environments, utilizing version control systems like Git and GitHub to manage collaborative projects.
+- **Adaptability**: Quickly learning and mastering new technologies and tools as required by different projects.
+- **Attention to Detail**: Writing clean, efficient, and well-documented code with a focus on maintaining and improving software quality.
+
+### 🖥️ Developer Information
+
+As a developer, I thrive on turning ideas into reality through code. My focus areas include:
+
+- **Desktop Applications**: Building robust and user-friendly applications using C#, WPF, and Windows Forms.
+- **Web Development**: Creating dynamic and responsive websites using HTML, CSS, JavaScript, and PHP.
+- **Database Management**: Designing and maintaining databases to ensure data integrity and efficiency.
+- **Version Control**: Utilizing Git and GitHub for effective source code management and project collaboration.
+
+### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tuusuario)
-
-
 
