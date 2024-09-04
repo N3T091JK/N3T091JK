@@ -1,4 +1,5 @@
-"Innovation is the ability to see change as an opportunity, not a threat"
+### Innovation is the ability to see change as an opportunity, not a threat
+
 
 
 ![Tecnologia](./tecnologia.png)
@@ -31,7 +32,8 @@ As a developer, I thrive on turning ideas into reality through code. My focus ar
 - **Version Control**: Utilizing Git and GitHub for effective source code management and project collaboration.
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tuusuario)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-ernesto-polanco-arteaga-4796202b0/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/hfEZozLypgnEQyBi/?mibextid=qi2Omg)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/N3T091JK)
 
