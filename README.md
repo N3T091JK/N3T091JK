@@ -1,4 +1,4 @@
-> "Technology is best when it brings people together." – Matt Mullenweg
+> "The science of today is the technology of tomorrow." – Edward Teller
 ![Tecnologia](./tecnologia.png)
 I'm Ernesto, a dedicated Desktop and Web Application Developer with a strong passion for creating impactful and efficient software solutions. My journey in the world of programming has equipped me with a diverse set of skills and tools that I bring to every project.
 
