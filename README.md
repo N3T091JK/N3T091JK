@@ -1,4 +1,4 @@
-### Innovation is the ability to see change as an opportunity, not a threat
+### **Innovation is the ability to see change as an opportunity, not a threat**
 
 
 
